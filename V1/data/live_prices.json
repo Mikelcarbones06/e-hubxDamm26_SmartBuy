@@ -1,0 +1,65 @@
+{
+  "aluminium": {
+    "price": 3963.5,
+    "symbol": "ALI=F",
+    "source": "Yahoo Finance via yfinance",
+    "fetched_at": "2026-05-23T13:41:38.779889",
+    "eur_per_tonne": 3415.3
+  },
+  "oil": {
+    "price": 103.54000091552734,
+    "symbol": "BZ=F",
+    "source": "Yahoo Finance via yfinance",
+    "fetched_at": "2026-05-23T13:41:38.928828",
+    "eur_per_tonne": 89.2
+  },
+  "wheat": {
+    "price": 646.25,
+    "symbol": "ZW=F",
+    "source": "Yahoo Finance via yfinance",
+    "fetched_at": "2026-05-23T13:41:40.570373",
+    "eur_per_tonne": 20461.6
+  },
+  "nat_gas": {
+    "price": 2.9070000648498535,
+    "symbol": "NG=F",
+    "source": "Yahoo Finance via yfinance",
+    "fetched_at": "2026-05-23T13:41:40.847677",
+    "eur_per_tonne": 2.5
+  },
+  "sugar": {
+    "price": 14.699999809265137,
+    "symbol": "SB=F",
+    "source": "Yahoo Finance via yfinance",
+    "fetched_at": "2026-05-23T13:41:41.486737",
+    "eur_per_tonne": 27925.6
+  },
+  "eurusd": {
+    "price": 1.160496711730957,
+    "symbol": "EURUSD=X",
+    "source": "Yahoo Finance via yfinance",
+    "fetched_at": "2026-05-23T13:41:42.139501",
+    "eur_per_tonne": null
+  },
+  "corn": {
+    "price": 463.25,
+    "symbol": "ZC=F",
+    "source": "Yahoo Finance via yfinance",
+    "fetched_at": "2026-05-23T13:41:42.349704",
+    "eur_per_tonne": 15715.0
+  },
+  "vpet": {
+    "price": 938.4,
+    "symbol": "DERIVED",
+    "eur_per_tonne": 938.4,
+    "source": "Derived from oil (103.5 USD/bbl)",
+    "fetched_at": "2026-05-23T13:41:42.349952"
+  },
+  "rpet": {
+    "price": 1075.4,
+    "symbol": "DERIVED",
+    "eur_per_tonne": 1075.4,
+    "source": "Derived from vPET x1.13 + 15",
+    "fetched_at": "2026-05-23T13:41:42.349963"
+  }
+}
