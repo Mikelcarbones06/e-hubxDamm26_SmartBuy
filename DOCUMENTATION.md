@@ -194,7 +194,7 @@ The barley model explicitly maps current conditions to one of three pre-defined 
 - Action: BUY SEMESTER VOLUME — lock in 6-month forward contracts
 - Historical parallel: Summer 2021 (Black Sea tensions + EU drought) → +12.1% in 30 days
 
-**Scenario B — Volume Trap ** 🟡
+**Scenario B — Volume Trap** 🟡
 - Conditions: Good harvest volume forecast BUT heat wave risk HIGH during June grain fill
 - Action: BUY MALTING GRADE NOW — even though generic barley price looks comfortable
 - Historical parallel: Summer 2018 (UK/France heat wave) → malting premium surged 20–40% despite adequate total volume
