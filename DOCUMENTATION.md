@@ -1,7 +1,7 @@
 # SmartBuy — Full Technical Documentation
 
-> e-hub × Damm Hackathon 2026
-> Version 5.0 | May 2026
+> **E-Hub × Damm Hackathon 2026**
+> May 2026
 
 ---
 
@@ -194,7 +194,7 @@ The barley model explicitly maps current conditions to one of three pre-defined 
 - Action: BUY SEMESTER VOLUME — lock in 6-month forward contracts
 - Historical parallel: Summer 2021 (Black Sea tensions + EU drought) → +12.1% in 30 days
 
-**Scenario B — Volume Trap (Protein Paradox)** 🟡
+**Scenario B — Volume Trap ** 🟡
 - Conditions: Good harvest volume forecast BUT heat wave risk HIGH during June grain fill
 - Action: BUY MALTING GRADE NOW — even though generic barley price looks comfortable
 - Historical parallel: Summer 2018 (UK/France heat wave) → malting premium surged 20–40% despite adequate total volume
@@ -269,7 +269,7 @@ Distance = √[ Σ(current_driver_i − historical_driver_i)² ]
 Similarity % = 1 − (Distance / max_distance)
 ```
 
-The four episodes — China Supply-Side Reform (2017), European Energy Crisis (2021), Yunnan El Niño (2023), and Russia-Ukraine War (2022) — were curated based on documented market outcomes with real price data. The ghost chart overlay shows the historical price trajectory from the entry point, enabling the procurement team to visualise what happened next in similar conditions.
+The three episodes — China Supply-Side Reform (2017), European Energy Crisis (2021), Yunnan El Niño (2023) — were curated based on documented market outcomes with real price data. The ghost chart overlay shows the historical price trajectory from the entry point, enabling the procurement team to visualise what happened next in similar conditions.
 
 ---
 
@@ -536,5 +536,12 @@ The four aluminium episodes and their driver vectors were set by human research,
 
 ---
 
-*SmartBuy — e-hub × Damm Hackathon 2026*
+## Team - 67Birras
+* **Guillem Arévalo Morell** 
+* **Mikel Carbonés Núñez**
+* **Emma Leroux Fernández-Armesto**
+
+---
+
+*SmartBuy — E-Hub × Damm Hackathon 2026*
 *Built with FastAPI, React, HuggingFace FinBERT, and Llama3.2*
